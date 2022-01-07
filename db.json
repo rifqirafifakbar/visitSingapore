@@ -1,0 +1,94 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Merlion",
+      "latitude": 1.286920,
+      "longitude": 103.854570,
+      "description": "The Merlion is the national personification of Singapore.Its name combines \"mer\" meaning the sea and \"lion\". The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means \"sea town\" in Javanese. The lion head represents Singapore's original name—Singapura—meaning \"lion city\" or \"kota singa\".",
+      "address": "10 Bayfront Avenue, Singapore",
+      "url": "www.marinabaysands.com/",
+      "url_img": "./img/place/merlion.png"
+    },
+    {
+      "id": 2,
+      "name": "Asian Civilisations Museum",
+      "latitude": 1.287466,
+      "longitude": 103.851424,
+      "description": "The Asian Civilisations Museum is an institution which forms a part of the four museums in Singapore, the other three being the Peranakan Museum at Old Tao Nan School, the National Museum of Singapore and the Singapore Art Museum",
+      "address": "1 Empress Pl, Singapore",
+      "url": "www.visitsingapore.com",
+      "url_img": "./img/place/asian_civilisations.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Clarke Quay",
+      "latitude": 1.290555,
+      "longitude": 103.846188,
+      "description": "Clarke Quay is a historical riverside quay in Singapore, located within the Singapore River Planning Area. The quay is situated upstream from the mouth of the Singapore River and Boat Quay",
+      "address": "3 River Valley Rd, Singapore 179024",
+      "url": "www.capitaland.com/sg/malls/clarkequay/en.html",
+      "url_img": "./img/place/clarke-quay.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fort Canning Park",
+      "latitude": 1.295526,
+      "longitude": 103.845331,
+      "description": "Fort Canning Hill, formerly Government Hill, Singapore Hill and Bukit Larangan, is a small hill about 48 metres high in the southeast portion of the island city-state of Singapore, within the Central Area that forms Singapore's central business district",
+      "address": "River Valley Rd, Singapore 179037",
+      "url": "www.visitsingapore.com",
+      "url_img": "./img/place/Fort_canning_park.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Orchard Road",
+      "latitude": 1.302279,
+      "longitude": 103.837399,
+      "description": "Orchard Road is Singapore’s retail heart, with discount outlets, department stores and upscale boutiques, alongside luxury hotels. Emerald Hill Road is a mix of colorful Chinese baroque houses and casual pubs, while al fresco bars and eateries can be found along nearby Cuppage Terrace. The Newton Food Centre is a popular foodie hub, offering everything from barbecued seafood and roasted meats to traditional desserts",
+      "address": "Orchard Rd",
+      "url": "www.visitsingapore.com",
+      "url_img": "./img/place/orchard_road.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Singapore Flyer",
+      "latitude": 1.289332,
+      "longitude": 103.863152,
+      "description": "The Singapore Flyer is a giant observation wheel at Downtown Core, Singapore. It opened in 2008, with construction having taken about 2½ years. It carried its first paying passengers on 11 February, had a soft opening to the public on 1 March, and was then officially opened on 15 April",
+      "address": "30 Raffles Ave, Singapore 039803",
+      "url": "www.singaporeflyer.com",
+      "url_img": "./img/place/SingaporeFlyerSkyDining.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Marina Bay Sands",
+      "latitude": 1.283099,
+      "longitude": 103.860295,
+      "description": "Marina Bay Sands® is a destination for those who appreciate luxury. An integrated resort notable for transforming Singapore's city skyline, it comprises three 55-storey towers of extravagant hotel rooms and luxury suites with personal butler services.",
+      "address": "10 Bayfront Ave, Singapore 018956",
+      "url": "sg.marinabaysands.com",
+      "url_img": "./img/place/marinabay.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gardens By The Bay",
+      "latitude": 1.281790,
+      "longitude": 103.863954,
+      "description": "The Gardens by the Bay is a nature park spanning 101 hectares in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden, Bay East Garden and Bay Central Garden",
+      "address": "18 Marina Gardens Dr, Singapore 018953",
+      "url": "www.gardensbythebay.com.sg",
+      "url_img": "./img/place/gardensbythebay.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Chinatown",
+      "latitude": 1.284193,
+      "longitude": 103.843362,
+      "description": "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay. Souvenir shops and indie boutiques dot the area, offering clothes, crafts and antiques, while Club Street is full of trendy wine bars. Cultural institutions here include the 1827 Sri Mariamman Temple and the ornate Buddha Tooth Relic Temple and Museum",
+      "address": "Singapore",
+      "url": "www.chinatown.sg",
+      "url_img": "./img/place/chinatown.jpg"
+    }
+  ]
+}
